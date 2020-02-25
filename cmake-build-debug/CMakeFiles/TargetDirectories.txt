@@ -1,3 +1,3 @@
-/Users/Deans/CLionProjects/Getting_the_Band_Together/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/Deans/CLionProjects/Getting_the_Band_Together/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/Deans/CLionProjects/Getting_the_Band_Together/cmake-build-debug/CMakeFiles/Getting_the_Band_Together.dir
+/Users/Deans/Documents/GitHub/Get_the_Band_Together/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Deans/Documents/GitHub/Get_the_Band_Together/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Deans/Documents/GitHub/Get_the_Band_Together/cmake-build-debug/CMakeFiles/Getting_the_Band_Together.dir

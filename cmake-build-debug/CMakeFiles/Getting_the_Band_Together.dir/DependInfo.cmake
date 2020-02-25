@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/Deans/CLionProjects/Getting_the_Band_Together/main.cpp" "/Users/Deans/CLionProjects/Getting_the_Band_Together/cmake-build-debug/CMakeFiles/Getting_the_Band_Together.dir/main.cpp.o"
+  "/Users/Deans/Documents/GitHub/Get_the_Band_Together/main.cpp" "/Users/Deans/Documents/GitHub/Get_the_Band_Together/cmake-build-debug/CMakeFiles/Getting_the_Band_Together.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

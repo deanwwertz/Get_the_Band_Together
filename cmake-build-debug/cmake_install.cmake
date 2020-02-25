@@ -1,4 +1,4 @@
-# Install script for directory: /Users/Deans/CLionProjects/Getting_the_Band_Together
+# Install script for directory: /Users/Deans/Documents/GitHub/Get_the_Band_Together
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -35,5 +35,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/Deans/CLionProjects/Getting_the_Band_Together/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/Deans/Documents/GitHub/Get_the_Band_Together/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
